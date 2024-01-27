@@ -28,3 +28,6 @@ coverage
 *.sw?
 
 *.tsbuildinfo
+
+/pocketbase/pb_data/*
+!/pocketbase/pb_migrations

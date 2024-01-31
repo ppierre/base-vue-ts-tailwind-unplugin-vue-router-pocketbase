@@ -29,5 +29,6 @@ coverage
 
 *.tsbuildinfo
 
-/pocketbase/pb_data/*
+/pocketbase/*
 !/pocketbase/pb_migrations
+typed-router.d.ts

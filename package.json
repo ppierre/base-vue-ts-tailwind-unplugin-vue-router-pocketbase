@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "pocketbase": "^0.21.5",
+    "vite-plugin-vue-devtools": "^7.4.6",
     "vue": "^3.5.10",
     "vue-router": "^4.4.5"
   },
